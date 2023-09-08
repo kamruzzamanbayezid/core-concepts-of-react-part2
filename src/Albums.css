@@ -1,0 +1,12 @@
+.albumsStyle{
+      background-color: rgb(226, 223, 223);
+}
+.albumStyle{
+      border: 2px solid red;
+      border-radius: 10px;
+      margin: 10px;
+}
+.border{
+      border: 2px solid greenyellow;
+      padding: 10px;
+}
